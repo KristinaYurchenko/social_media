@@ -408,7 +408,7 @@ http://127.0.0.1:8000/api/schema/redoc/
 ```bash
 social_media/
 │
-├── media/
+├── social_media/
 │   ├── settings.py
 │   ├── urls.py
 │   └── ...
